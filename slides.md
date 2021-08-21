@@ -1143,7 +1143,7 @@ Program is available for installation with pip or pipx!
 <uim-scenery class="text-6xl ml-8 mt-5 text-blue-600" />
 
 <div class="text-3xl font-bold mt-9 ml-4">
-Two packages to build command-line tools in Python!
+Two packages to build Python command-line tools!
 </div>
 
 </div>
