@@ -549,7 +549,7 @@ pingouin = "^0.3.12"
   }
 </style>
 
-<div class="border-2 rounded-2xl border-gray-700 bg-true-gray-300 p-5 mr-15">
+<div class="border-2 rounded-2xl border-gray-700 bg-true-gray-300 p-5 mr-10">
 
 <pre>
 [tool.poetry.dev-dependencies]
@@ -581,7 +581,7 @@ workknow = "workknow.main:cli"
 
 <div v-click>
 
-<div class="flex row">
+<div class="flex row -ml-4">
 
 <uim-box class="text-6xl ml-8 mt-6 text-blue-600" />
 
