@@ -7,11 +7,13 @@
   }
 
   h2 {
-    @apply text-5xl leading-15 font-bold text-blue-600 -mb-5;
+    @apply text-5xl m-4 leading-15 font-bold text-blue-600 -mb-5;
   }
 
   h3 {
-    @apply text-3xl m-4 font-bold text-dark-100;
+    @apply text-3xl font-bold text-dark-100 opacity-100;
+    text-transform: none;
+    letter-spacing: .01em;
   }
 
   h1 + p {
@@ -19,7 +21,6 @@
   }
 
 }
-
 
 .slidev-layout.fact {
   @apply text-center grid h-full;
