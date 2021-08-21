@@ -870,7 +870,7 @@ What are the benefits of running these tasks?
 
 <div class="flex row">
 
-<div class="text-7xl text-orange-600 font-bold mt-5 ml-4 mb-4">
+<div class="text-7xl text-orange-600 font-bold mt-5 ml-0 mb-4">
 Benefits of type checking and code formatting?
 </div>
 
@@ -1009,7 +1009,7 @@ with zipfile.ZipFile(
 
 <div class="flex row">
 
-<div class="text-7xl text-orange-600 font-bold mt-5 ml-4 mb-4">
+<div class="text-7xl text-orange-600 font-bold mt-5 ml-0 mb-4">
 How to build and publish a Python package?
 </div>
 
@@ -1172,7 +1172,7 @@ Quick environments, dependencies, and releases!
 
 <div class="flex row">
 
-<div class="text-7xl text-orange-600 font-bold mt-5 ml-4 mb-4">
+<div class="text-7xl text-orange-600 font-bold mt-5 ml-0 mb-4">
 Best way to easily create command-line tools using modern Python?
 </div>
 
@@ -1274,7 +1274,7 @@ Share your experiences with the Python community!
 
 <style>
   h1 {
-    @apply text-6xl -my-2 leading-20 font-bold text-dark-100 text-orange-600;
+    @apply text-6xl -ml-2 -my-5 leading-20 font-bold text-dark-100 text-orange-600;
   }
   h2 {
     @apply text-4xl leading-20 font-bold text-dark-100;
@@ -1330,7 +1330,7 @@ Poetry handles dependencies and releases
 
 <style>
   h1 {
-    @apply text-6xl -my-2 leading-20 font-bold text-dark-100 text-orange-600;
+    @apply text-6xl -ml-2 -my-2 leading-20 font-bold text-dark-100 text-orange-600;
   }
   h2 {
     @apply text-4xl leading-20 font-bold text-dark-100;
