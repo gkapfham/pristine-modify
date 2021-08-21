@@ -1,7 +1,7 @@
 ---
 theme: default
 class: text-center
-highlighter: prism
+highlighter: shiki
 colorSchema: light
 download: true
 preload: true
